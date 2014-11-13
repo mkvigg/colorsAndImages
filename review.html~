@@ -17,12 +17,9 @@
   width: 20%;
   margin: .1em;
   color: white;
-  display: inline;
 }
 
 #exercise2 a:hover {
-	color: pink;
-	background-color:black;
 
 }
 </style>
